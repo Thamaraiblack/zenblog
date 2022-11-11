@@ -1,0 +1,62 @@
+@font-face {
+  font-family:EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+div.container div.container-fluid{
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+div.container-fluid{
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+.font{
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+#zenblog{
+  font-size: xx-large;
+  font-size: 900;
+}
+.blog{
+  padding-left: 300px;
+}
+.masks{
+  padding-bottom:5px;
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+  font-size: xx-large;
+}
+.masks1{
+  padding-bottom:30px;
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+  font-size: large;
+}
+.date{
+  font-size: 12px;
+  font-weight: 500;
+  color: darkgrey;
+}
+.name1{
+  font-size: 17px;
+  font-weight: 800;
+  padding-bottom: 20px;
+  margin-top: 5px;
+  margin-left: 0px;
+  color: darkgrey;
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+}
+.name{
+  font-size: 15px;
+  font-weight: 500;
+  color: darkgrey;
+  font-family: EBGaramond-VariableFont ;
+  src: url(EB_Garamond/EBGaramond-VariableFont_wght.ttf);
+
+}
+.calture{
+  font-size: x-large;
+  font-weight: 900;
+}
